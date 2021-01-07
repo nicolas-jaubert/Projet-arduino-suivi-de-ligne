@@ -10,6 +10,6 @@ On utilise **Tinkercad** pour pouvoir simuler son fonctionnement.
 
 Réalisé part :
 
--MEYER Quentin
--JAUBERT Nicolas
+- MEYER Quentin
+- JAUBERT Nicolas
 

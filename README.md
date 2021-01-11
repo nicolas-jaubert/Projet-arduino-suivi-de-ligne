@@ -3,7 +3,9 @@ Projet-arduino
 Suivi de ligne
 -
 
-Ceci est une partie d'un Projet de création d'un robot autonome pour participer au grand concours **ITER** qui consiste en trois épreuves distinctes :
+<img align="center" alt="Image Iter Robot" width="200px" src="http://www.itercad.org/robots2018/tests_maquette.jpg"/>
+
+Ceci est une partie d'un Projet de création d'un robot autonome pour participer au grand concours **ITER ROBOT** qui consiste en trois épreuves distinctes :
 - Une épreuve de rapidité;
 - Une épreuve de réflexion;
 - Une dernière épreuve mélangeant les deux !

@@ -44,4 +44,12 @@ void loop()
     delay(1000);
   }
 
+    readPhoto = analogRead(A2);
+  if (readPhoto < 518) {
+    digitalWrite(10, HIGH);
+    delay(1000);
+  } else {
+    digitalWrite(10, LOW);
+    delay(1000);
+  }
 }

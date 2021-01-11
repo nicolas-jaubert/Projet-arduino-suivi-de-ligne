@@ -20,5 +20,13 @@ void setup()
 
 void loop()
 {
+  position_bouton = analogRead(A3) ;
+  angle_servomoteur = map ( position_bouton , 0 , 1023 , 0 , 180 );
+  servo_pin_5.write( angle_servomoteur );
+  Serial.print("valeur du bouton = ");
+  Serial.print(position_bouton);
+  Serial.println();
+  Serial.print("angle servomoteur = ");
+  Serial.print(angle_servomoteur);
 
 }

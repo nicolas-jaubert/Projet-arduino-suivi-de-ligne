@@ -3,7 +3,7 @@ Projet-arduino
 Suivi de ligne
 -
 
-<img align="center" alt="Image Iter Robot" width="200px" src="http://www.itercad.org/robots2018/tests_maquette.jpg"/>
+<img align="center" alt="Image Iter Robot" width="600px" src="http://www.itercad.org/robots2018/tests_maquette.jpg"/>
 
 Ceci est une partie d'un Projet de création d'un robot autonome pour participer au grand concours **ITER ROBOT** qui consiste en trois épreuves distinctes :
 - Une épreuve de rapidité;
@@ -11,8 +11,8 @@ Ceci est une partie d'un Projet de création d'un robot autonome pour participer
 - Une dernière épreuve mélangeant les deux !
 
 
-Il s'agit d'un programme en **Arduino** qui permet de suivre une ligne à l'aide de deux capteurs de lumière, si l'un des capteurs détecte la ligne le programme va stopper la roue opposé afin de réaligner le robot.
-On utilise **Tinkercad** pour pouvoir simuler son fonctionnement.
+Le programme que vous pouvez trouver est en **Arduino** qui permet de suivre une ligne à l'aide de deux capteurs de lumière, si l'un des capteurs détecte la ligne le programme va stopper la roue opposé afin de réaligner le robot.
+On utilise **Tinkercad** pour pouvoir simuler son fonctionnement, vous pouvez accéder à sa simulation en cliquant ici https://www.tinkercad.com/things/kitnYItFWeB-copy-of-initiation-servomoteur/editel?sharecode=uKo1A4ekcyDy-1f05JgdfdUPdu6FSEAkv8Jizao048I.
 
 Réalisé part :
 

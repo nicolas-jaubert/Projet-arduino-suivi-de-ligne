@@ -12,14 +12,14 @@ Ceci est une partie d'un Projet de création d'un robot autonome pour participer
 
 
 Le programme que vous pouvez trouver est en **Arduino** qui permet de suivre une ligne à l'aide de deux capteurs de lumière, si l'un des capteurs détecte la ligne le programme va stopper la roue opposé afin de réaligner le robot.
-On utilise **Tinkercad** pour pouvoir simuler son fonctionnement, vous pouvez accéder à sa simulation en cliquant ici https://www.tinkercad.com/things/kitnYItFWeB-copy-of-initiation-servomoteur/editel?sharecode=uKo1A4ekcyDy-1f05JgdfdUPdu6FSEAkv8Jizao048I.
+On utilise **Tinkercad** pour pouvoir simuler son fonctionnement, vous pouvez accéder à sa simulation en cliquant ici https://www.tinkercad.com/things/kitnYItFWeB-iter/editel?sharecode=uKo1A4ekcyDy-1f05JgdfdUPdu6FSEAkv8Jizao048I.
 
 Réalisé part :
 
 - MEYER Quentin
 - JAUBERT Nicolas
 
-<img align="left" alt="Arduino" width="26px" src="<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Arduino" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fepnrelais59.wordpress.com%2F2015%2F07%2F25%2Fapprendre-arduino-et-lelectronique-nos-plus-belles-ressources%2F&psig=AOvVaw2F00GX3PvVXcxS6OtCdyo_&ust=1610465229390000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjh2tOYlO4CFQAAAAAdAAAAABAD" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />

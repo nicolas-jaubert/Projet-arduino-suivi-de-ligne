@@ -35,4 +35,13 @@ void loop()
   Serial.println();
   delay( 200 );
 
+  readPhoto = analogRead(A1);
+  if (readPhoto > 518) {
+    digitalWrite(11, HIGH);
+    delay(5000);
+  } else {
+    digitalWrite(11, LOW);
+    delay(5000);
+  }
+
 }

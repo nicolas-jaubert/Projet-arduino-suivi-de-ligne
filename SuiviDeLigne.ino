@@ -17,3 +17,39 @@ void setup()
   pinMode(10, OUTPUT);
   pinMode(11, OUTPUT);
 }
+
+void loop()
+{
+  position_bouton = analogRead(A3) ;
+  angle_servomoteur = map ( position_bouton , 0 , 1023 , 0 , 180 );
+  servo_pin_5.write( angle_servomoteur );
+  Serial.print("valeur du bouton = ");
+  Serial.print(position_bouton);
+  Serial.println();
+  Serial.print("angle servomoteur = ");
+  Serial.print(angle_servomoteur);
+  Serial.print(" ");
+  Serial.print("degres");
+  Serial.println();
+  Serial.print("---------------------------------");
+  Serial.println();
+  delay( 200 );
+
+  readPhoto = analogRead(A1);
+  if (readPhoto > 518) {
+    digitalWrite(11, HIGH);
+    delay(1000);
+  } else {
+    digitalWrite(11, LOW);
+    delay(1000);
+  }
+
+    readPhoto = analogRead(A2);
+  if (readPhoto < 518) {
+    digitalWrite(10, HIGH);
+    delay(1000);
+  } else {
+    digitalWrite(10, LOW);
+    delay(1000);
+  }
+}

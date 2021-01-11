@@ -3,7 +3,7 @@ Projet-arduino
 Suivi de ligne
 -
 
-<img align="center" alt="Image Iter Robot" width="600px" src="http://www.itercad.org/robots2018/tests_maquette.jpg"/>
+<img align="center" alt="Image Iter Robot" width="400px" src="http://www.itercad.org/robots2018/tests_maquette.jpg"/>
 
 Ceci est une partie d'un Projet de création d'un robot autonome pour participer au grand concours **ITER ROBOT** qui consiste en trois épreuves distinctes :
 - Une épreuve de rapidité;

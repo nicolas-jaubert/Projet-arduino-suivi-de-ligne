@@ -25,5 +25,14 @@ void loop()
   servo_pin_5.write( angle_servomoteur );
   Serial.print("valeur du bouton = ");
   Serial.print(position_bouton);
+  Serial.println();
+  Serial.print("angle servomoteur = ");
+  Serial.print(angle_servomoteur);
+  Serial.print(" ");
+  Serial.print("degres");
+  Serial.println();
+  Serial.print("---------------------------------");
+  Serial.println();
+  delay( 200 );
 
 }

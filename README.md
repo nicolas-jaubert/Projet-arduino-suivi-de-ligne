@@ -12,7 +12,7 @@ Ceci est une partie d'un Projet de création d'un robot autonome pour participer
 
 
 Le programme que vous pouvez trouver est en **Arduino** qui permet de suivre une ligne à l'aide de deux capteurs de lumière, si l'un des capteurs détecte la ligne le programme va stopper la roue opposé afin de réaligner le robot.
-On utilise **Tinkercad** pour pouvoir simuler son fonctionnement, vous pouvez accéder à sa simulation en cliquant ici : https://www.tinkercad.com/things/kitnYItFWeB-iter/editel?sharecode=uKo1A4ekcyDy-1f05JgdfdUPdu6FSEAkv8Jizao048I.
+On utilise **Tinkercad** pour pouvoir simuler son fonctionnement, vous pouvez accéder à sa simulation en cliquant ici : https://www.tinkercad.com/things/kitnYItFWeB-iter/editel?sharecode=6F-RbTsroPtuuG79U3JPvf9XcwsAdxPRrFFstP5r0So.
 
 Réalisé part :
 
